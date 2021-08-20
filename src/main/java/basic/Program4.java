@@ -2,7 +2,7 @@ package basic;
 // Write a program to generate random numbers from minimum range to maximum range by user input
 import java.util.Scanner;
 
-public class Assignment4 {
+public class Program4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter minimum number:");

@@ -2,7 +2,7 @@ package basic;
 // Write a program to solve (a+b)^2 by taking input a and b from the user [^2 means whole square]
 import java.util.Scanner;
 
-public class Assignment5 {
+public class Program5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the first number: ");

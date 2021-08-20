@@ -2,7 +2,7 @@ package basic;
 // Write a program to take 3 inputs from user and do sum and average
 import java.util.Scanner;
 
-public class Assignment3 {
+public class Program3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input first integer number:");

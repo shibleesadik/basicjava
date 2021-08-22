@@ -1,9 +1,9 @@
-package loop;
+package string_loop;
 
 import java.util.Scanner;
 
 // Write a program to sum of digits of a number by taking from user input
-public class program_7 {
+public class program_1 {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Please enter a number: ");

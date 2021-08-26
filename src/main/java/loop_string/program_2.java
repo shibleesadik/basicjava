@@ -1,4 +1,4 @@
-package string_loop;
+package loop_string;
 
 import java.util.Scanner;
 
